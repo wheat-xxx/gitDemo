@@ -1,5 +1,2 @@
-git master
-git dev
-
-git test
+远程仓库 git master origin
 
